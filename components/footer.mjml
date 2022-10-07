@@ -1,0 +1,35 @@
+<mj-hero mode="fixed-height" height="768px" background-width="600px" background-height="768px" background-url="./img/footer-banner.jpeg" padding-top="755px">
+  <mj-text>
+    <table
+      class="container"
+      cellspacing="0"
+      cellpadding="0"
+      border="0"
+      align="center">
+      <tr>
+        <td align="center" style="border-bottom: 1px solid #ffffff; padding-bottom: 10px;">
+          <a href="#"><img align="left" class="footer-logo" src="img/footer-logo.png" alt="footer logo"></a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" style="padding-top: 10px; padding-bottom: 50px;">
+          <p align="left" class="footer-logo-sub">Where Silicon Valley logs off.</p>
+        </td>
+      </tr>
+    </table>
+  </mj-text>
+</mj-hero>
+
+<mj-section background-color="#fdfcf8">
+  <mj-column padding-bottom="90px">
+    <mj-text align="center" font-family="Roboto" font-size="15px" color="#969695" padding-top="15px">
+      Sent to hello@SmilesDavis.yeah | <a class="footer-newsletter" href="#">Manage this newsletter</a> | <a class="footer-help" href="#">Help</a>
+    </mj-text>
+    <mj-text align="center" font-family="Roboto" font-size="15px" color="#969695" padding-top="15px">
+      <img class="footer-logo2" src="img/footer-logo2.png" alt="footer-logo-2"> The Information • 1 Post Street, Suite 1050, San Francisco
+    </mj-text>
+    <mj-text align="center" font-family="Roboto" font-size="15px" color="#969695" padding-top="15px">
+      CA 94104
+    </mj-text>
+  </mj-column>
+</mj-section>

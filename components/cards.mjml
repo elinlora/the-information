@@ -1,0 +1,68 @@
+<!-- Card (1) -->
+    <mj-section>
+      <mj-column mj-class="padding" padding-bottom="25px">
+        <mj-text padding-top="21px" font-family="Roboto" font-size="32px">
+          The Big Read
+        </mj-text>
+        <mj-image padding-top="15px" href="#" src="img/content1.jpeg" alt="Sam Altman" />
+        <mj-text padding-top="15px" font-size="26px">
+          <a class="card-link" href="#">The Eternal Sunshine of Sam Altman</a>
+        </mj-text>
+        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="18px">
+          Silicon Valley’s most optimistic man just bet $375 million on a nuclear energy moonshot. And launched a controversial cryptocurrency company called Worldcoin. And shipped a next-gen artificial intelligence tool for Microsoft. It's all in a day’s work for Altman, the former head of Y Combinator and CEO of OpenAI, who’s as excited about the future of technology as anyone you’ll meet—in spite of some major questions about how we’ll actually get there.   
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- / Card (1) -->
+
+    <!-- Card (2) -->
+    <mj-section mj-class="red">
+      <mj-column mj-class="padding" padding-bottom="25px">
+        <mj-text padding-top="21px" font-family="Roboto" font-size="32px" color="#ffffff">
+          Social Studies 
+        </mj-text>
+        <mj-image padding-top="15px" href="#" src="img/content2.jpeg" alt="Celebrity Kids" />
+        <mj-text css-class="card-link-white" padding-top="15px" font-size="26px">
+          <a class="card-link" href="#">Celebrity Kids Loved Being on TikTok—Then the Knives Came Out</a>
+        </mj-text>
+        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="18px" color="#ffffff">
+          All Sam Williams wanted was to post some funny videos on the Internet co-starring his grandmother, Dame Judi Dench. But as his TikTok audience grew, so did the toxicity. Williams and other celebrity offspring are finding that TikTok isn’t the promised land of free expression they (briefly) thought it was—and some of them are beginning to back away from the app.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- / Card (2) -->
+
+    <!-- Card (3) -->
+    <mj-section>
+      <mj-column mj-class="padding" padding-bottom="25px">
+        <mj-text padding-top="21px" font-family="Roboto" font-size="32px">
+          Market Research
+        </mj-text>
+        <mj-image padding-top="15px" href="#" src="img/content3.jpeg" alt="Nick Cho" />
+        <mj-text padding-top="15px" font-size="26px">
+          <a class="card-link" href="#">To Taste the Bleeding Edge of Coffee Culture, Just Add Water</a>
+        </mj-text>
+        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="18px">
+          Before he was TikTok-famous as <a class="link" href="#">Your Korean Dad</a>, Nick Cho was specialty-coffee-famous as the founder of San Francisco’s Wrecking Ball Coffee Roasters. Which is why we asked him to assess tech’s newest caffeine obsession: highbrow instant coffees, including Jot, Juno, Swift Club, and the coolest java on the market (literally—its cryogenically frozen), Cometeer. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- / Card (3) -->
+  
+    <!-- Card (4) -->
+    <mj-section>
+      <mj-column mj-class="padding" padding-bottom="25px">
+        <mj-text padding-top="21px" font-family="Roboto" font-size="32px">
+          Decamped
+        </mj-text>
+        <mj-image padding-top="15px" href="#" src="img/content4.jpeg" alt="Gullian Morris" />
+        <mj-text padding-top="15px" font-size="26px">
+          <a class="card-link" href="#">Finished With San Francisco, a Founder Falls in Love With San Juan</a>
+        </mj-text>
+        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="18px">
+          Hitlist founder Gillian Morris had one too many brushes with street crime during her time in San Francisco. So she gave up the Bay Area startup life for a fresh start in Puerto Rico. Now her morning commute includes a dip in the Caribbean. And no, you won’t find her riding ATVs on the beach with Logan Paul. 
+        </mj-text>
+        <mj-divider padding-top="24px" />
+      </mj-column>
+    </mj-section>
+    <!-- / Card (4) -->
