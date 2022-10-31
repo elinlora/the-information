@@ -100,110 +100,110 @@
     </mj-style>
 
   </mj-head>
-  <mj-body>
+  <mj-body background-color="#f6f6f6">
     
-  <mj-wrapper>
+    <mj-wrapper>
 
-    <!-- Header -->
-    <mj-include path="components/header.mjml" />
+      <!-- Header -->
+      <mj-include path="components/header.mjml" />
 
-    <!-- Subheader Top -->
-    <mj-section>
-      <mj-column mj-class="padding">
-        <mj-text font-family="Roboto" font-size="15px" font-weight="400" letter-spacing=".5px" color="#898989" align="center" padding="18px 0" text-transform="uppercase">
-          Supported By The Northern Trust Institute
-        </mj-text>
-        <mj-divider  />
-      </mj-column>
-    </mj-section>
-    <!-- / Subheader Top -->
+      <!-- Subheader Top -->
+      <mj-section>
+        <mj-column mj-class="padding">
+          <mj-text font-family="Roboto" font-size="15px" font-weight="400" letter-spacing=".5px" color="#898989" align="center" padding="18px 0" text-transform="uppercase">
+            Supported By The Northern Trust Institute
+          </mj-text>
+          <mj-divider  />
+        </mj-column>
+      </mj-section>
+      <!-- / Subheader Top -->
 
-    <!-- Subheader Bottom -->
-    <mj-section>
-      <mj-column mj-class="padding">
-        <mj-text font-family="Roboto Serif" font-size="14px" line-height="27px" align="left" padding="18px 0" font-style="italic">
-          Below, you'll find a note from our editors about The Information Weekend, a brand new section exclusively for subscribers. To celebrate today's launch, you can save 50% on an annual subscription to The Information, which gives you unlimited access to our reporting and analysis, org charts, events, newsletters and more. <a class="link" href="#">Subscribe here to get $200 off.</a>
-        </mj-text>
-        <mj-divider  />
-      </mj-column>
-    </mj-section>
-    <!-- /Subheader Bottom -->
+      <!-- Subheader Bottom -->
+      <mj-section>
+        <mj-column mj-class="padding">
+          <mj-text font-family="Roboto Serif" font-size="14px" line-height="27px" align="left" padding="18px 0" font-style="italic">
+            Below, you'll find a note from our editors about The Information Weekend, a brand new section exclusively for subscribers. To celebrate today's launch, you can save 50% on an annual subscription to The Information, which gives you unlimited access to our reporting and analysis, org charts, events, newsletters and more. <a class="link" href="#">Subscribe here to get $200 off.</a>
+          </mj-text>
+          <mj-divider  />
+        </mj-column>
+      </mj-section>
+      <!-- /Subheader Bottom -->
 
-    <!-- Main Body -->
-    <mj-section>
-      <mj-column mj-class="padding">
-        <mj-text font-family="Roboto Serif" font-size="27px" line-height="40px" align="left" padding-top="18px">
-          How does Silicon Valley relax on the weekend? 
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="18px">
-          It is a simple question—and, upon a little introspection, a perplexing one. How does the most casual culture on the planet unwind? How do you dress down when you never dress up?
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
-          What distinguishes life outside the office when your office is your living room, you take meetings from your Peloton and you try to teach your kids how to use Roblox while you’re on a Zoom? 
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
-          For many of us, it often feels like the weekend doesn’t even exist. 
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
-          Yet the weekend still serves a purpose. It is a time to think about how we spend our time. To exhale out the stress of our weekday jobs. To concentrate on things that are not mission critical. To stretch our muscles. To stoke our creativity. To absorb culture. 
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
-          The truth is, we’re all living the tech lifestyle whether we realize it or not. And that lifestyle is changing fast.   
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
-          At The Information, we know tech. For almost eight years, we have driven the agenda in business coverage of the technology industry. We’ve been the first to tell our subscribers about major new trends—from the rise of ride sharing to the arrival of the metaverse. And we’ve been the first to hold leaders accountable when they have failed to recognize the growing power and responsibility they hold over our businesses—and our lives.  
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
-          And so, as tech’s impact becomes more pervasive by the day, we are expanding our lens, in our biggest editorial expansion since we launched. 
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
-          With <a class="link" href="#">exclusive profiles and interviews</a>, The Information Weekend will bring you inside the lives and minds of the new arbiters of culture and technology. We’ll shine a light on <a class="link" href="#">trends that are changing the way we live</a>. We’ll recommend <a class="link" href="#">new products and services</a>. We’ll be insanely practical. (We listen to our audiobooks at 2X, after all.) If there’s a book, movie, solar-heated coffee mug, or connected rowing machine you must know about, we’ll tell you first.  
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
-          We’ve assembled an all-star team hailing from <em>Vanity Fair</em>, <em>New York</em> magazine, <em>Town & Country</em>, <em>Wired</em> and beyond to serve up this new section, which we are offering at no additional cost to subscribers. These award-winning journalists will be your navigators, with stylish and authoritative writing that will keep you reading from your first oat-milk latte of the day to that happy-hour cabernet from your boss’s Napa winery. It’s the quality of journalism you have come to expect from The Information, with a little more flair.   
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
-          We also hope our new section—delivered via <a class="link" href="#">email</a>, <a class="link" href="#">online</a> and in <a class="link" href="#">The Information app</a> every Friday—helps you find a little flow in your week. The pandemic has left us drained and exhausted from navigating work, life and the too-porous boundary between them.    
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
-          We all need a place to log off. 
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
-          <a class="link" href="#">Ladies and gentlemen, The Weekend.</a>
-        </mj-text>
-        <mj-text font-family="Roboto Serif" font-size="16px" font-style="italic" line-height="25px" align="left" padding-top="18px">
-          Jessica Lessin, founder, The Information
-          <br>
-          Jon Steinberg, editor, The Information Weekend
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- / Main Body -->
+      <!-- Main Body -->
+      <mj-section>
+        <mj-column mj-class="padding">
+          <mj-text font-family="Roboto Serif" font-size="27px" line-height="40px" align="left" padding-top="18px">
+            How does Silicon Valley relax on the weekend? 
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="18px">
+            It is a simple question—and, upon a little introspection, a perplexing one. How does the most casual culture on the planet unwind? How do you dress down when you never dress up?
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
+            What distinguishes life outside the office when your office is your living room, you take meetings from your Peloton and you try to teach your kids how to use Roblox while you’re on a Zoom? 
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
+            For many of us, it often feels like the weekend doesn’t even exist. 
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
+            Yet the weekend still serves a purpose. It is a time to think about how we spend our time. To exhale out the stress of our weekday jobs. To concentrate on things that are not mission critical. To stretch our muscles. To stoke our creativity. To absorb culture. 
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
+            The truth is, we’re all living the tech lifestyle whether we realize it or not. And that lifestyle is changing fast.   
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
+            At The Information, we know tech. For almost eight years, we have driven the agenda in business coverage of the technology industry. We’ve been the first to tell our subscribers about major new trends—from the rise of ride sharing to the arrival of the metaverse. And we’ve been the first to hold leaders accountable when they have failed to recognize the growing power and responsibility they hold over our businesses—and our lives.  
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
+            And so, as tech’s impact becomes more pervasive by the day, we are expanding our lens, in our biggest editorial expansion since we launched. 
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
+            With <a class="link" href="#">exclusive profiles and interviews</a>, The Information Weekend will bring you inside the lives and minds of the new arbiters of culture and technology. We’ll shine a light on <a class="link" href="#">trends that are changing the way we live</a>. We’ll recommend <a class="link" href="#">new products and services</a>. We’ll be insanely practical. (We listen to our audiobooks at 2X, after all.) If there’s a book, movie, solar-heated coffee mug, or connected rowing machine you must know about, we’ll tell you first.  
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
+            We’ve assembled an all-star team hailing from <em>Vanity Fair</em>, <em>New York</em> magazine, <em>Town & Country</em>, <em>Wired</em> and beyond to serve up this new section, which we are offering at no additional cost to subscribers. These award-winning journalists will be your navigators, with stylish and authoritative writing that will keep you reading from your first oat-milk latte of the day to that happy-hour cabernet from your boss’s Napa winery. It’s the quality of journalism you have come to expect from The Information, with a little more flair.   
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
+            We also hope our new section—delivered via <a class="link" href="#">email</a>, <a class="link" href="#">online</a> and in <a class="link" href="#">The Information app</a> every Friday—helps you find a little flow in your week. The pandemic has left us drained and exhausted from navigating work, life and the too-porous boundary between them.    
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
+            We all need a place to log off. 
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="15px">
+            <a class="link" href="#">Ladies and gentlemen, The Weekend.</a>
+          </mj-text>
+          <mj-text font-family="Roboto Serif" font-size="16px" font-style="italic" line-height="25px" align="left" padding-top="18px">
+            Jessica Lessin, founder, The Information
+            <br>
+            Jon Steinberg, editor, The Information Weekend
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- / Main Body -->
 
-    <!-- Cards -->
-    <mj-include path="components/cards.mjml" />
+      <!-- Cards -->
+      <mj-include path="components/cards.mjml" />
 
-    <!-- Subfooter Card -->
-    <mj-section>
-      <mj-column mj-class="padding" padding-bottom="25px">
-        <mj-text padding-top="0" font-family="Roboto" font-size="16px">
-          A Message from The Northern Trust Institute 
-        </mj-text>
-        <mj-text padding-top="24px" font-size="26px">
-          Balancing Private & Public Investments
-        </mj-text>
-        <mj-image padding-top="20px" href="#" src="img/content5.jpeg" alt="Nick Cho" />
-        <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="10px">
-          With new private investment opportunities emerging across a range of asset classes, is now the time to reevaluate the role of private investments in your portfolio? A new report offers research-backed insights to weigh your options. <a class="link" href="#">Learn more here</a>. 
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- / Subfooter Card -->
+      <!-- Subfooter Card -->
+      <mj-section>
+        <mj-column mj-class="padding" padding-bottom="25px">
+          <mj-text padding-top="0" font-family="Roboto" font-size="16px">
+            A Message from The Northern Trust Institute 
+          </mj-text>
+          <mj-text padding-top="24px" font-size="26px">
+            Balancing Private & Public Investments
+          </mj-text>
+          <mj-image padding-top="20px" href="#" src="img/content5.jpeg" alt="Nick Cho" />
+          <mj-text font-family="Roboto Serif" font-size="16px" line-height="27px" align="left" padding-top="10px">
+            With new private investment opportunities emerging across a range of asset classes, is now the time to reevaluate the role of private investments in your portfolio? A new report offers research-backed insights to weigh your options. <a class="link" href="#">Learn more here</a>. 
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- / Subfooter Card -->
 
-    <!-- Footer -->
-    <mj-include path="components/footer.mjml" />
+      <!-- Footer -->
+      <mj-include path="components/footer.mjml" />
 
-  </mj-wrapper>
+    </mj-wrapper>
 
-</mj-body>
+  </mj-body>
 </mjml>

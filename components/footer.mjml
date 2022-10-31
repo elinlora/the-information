@@ -1,11 +1,6 @@
 <mj-hero mode="fixed-height" height="768px" background-width="600px" background-height="768px" background-url="./img/footer-banner.jpeg" padding-top="755px">
   <mj-text>
-    <table
-      class="container"
-      cellspacing="0"
-      cellpadding="0"
-      border="0"
-      align="center">
+    <table class="container" cellspacing="0" cellpadding="0" border="0" align="center">
       <tr>
         <td align="center" style="border-bottom: 1px solid #ffffff; padding-bottom: 10px;">
           <a href="#"><img align="left" class="footer-logo" src="img/footer-logo.png" alt="footer logo"></a>
